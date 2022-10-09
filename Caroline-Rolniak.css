@@ -167,6 +167,7 @@
   }
 } .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/308241187-0.jpeg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -186,10 +187,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 543px;
   }
@@ -523,11 +520,13 @@
   }
 
   .u-section-3 .u-image-4 {
-    margin-top: -356px;
+    margin-top: -332px;
+    margin-right: auto;
+    margin-left: 87px;
   }
 
   .u-section-3 .u-image-5 {
-    margin-top: 219px;
+    margin-top: 195px;
     margin-left: 59px;
   }
 
